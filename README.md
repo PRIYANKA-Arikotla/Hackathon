@@ -22,6 +22,6 @@ Models applied:
 7. SVM Regression
 8. Decision Tree Regression
 9. Random Forest Regression
-10. AdaBoost Regression
-11. GradientBoost Regression
+10. GradientBoost Regression
+11. XGBoost Regression
 12. Artificial Neural Networks
